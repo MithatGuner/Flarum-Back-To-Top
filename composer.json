@@ -37,6 +37,7 @@
       "flagrow": {
               "discuss": ""
           }
-    }
+    },
+    "minimum-stability": "dev"
   }
   
